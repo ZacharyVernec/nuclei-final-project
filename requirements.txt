@@ -1,0 +1,6 @@
+ipykernel 
+nb_conda_kernels 
+matplotlib 
+pandas 
+plotly 
+scipy
